@@ -11,7 +11,7 @@
 **实现框架：** langchain
 ## 二、用户画像模型训练
 
-**实现代码文件:** [user_profile_agent.py](user_profile_agent.py)
+**实现代码文件:** [user_profile_agent.py](train.py)
 
 **选用的基座模型：** Qwen2.5-0.5B-Instruct
 
